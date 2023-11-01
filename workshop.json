@@ -1,4 +1,8 @@
 {
-  "WorkshopId": 2935966321,
+  "WorkshopId": 3068956270,
+  "Title": "A Backpack",
+  "Description": "A backpack, gives you 150 extra capacity for carrying things, but it decreases your ability to dodge by two.\n\nFrankly I have no idea if this will show up in shops or not. \n\nThe item ID is thop_backpack",
+  "Tags": "",
+  "Visibility": "1",
   "ImagePath": "preview.png"
 }
