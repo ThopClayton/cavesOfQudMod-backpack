@@ -1,8 +1,8 @@
 {
   "WorkshopId": 3068956270,
   "Title": "A Backpack",
-  "Description": "A backpack, gives you 150 extra capacity for carrying things, but it decreases your ability to dodge by two.\n\nFrankly I have no idea if this will show up in shops or not. \n\nThe item ID is thop_backpack",
+  "Description": "A backpack, gives you 150 extra capacity for carrying things, but it decreases your ability to dodge by two.\n\nFrankly I have no idea if this will show up in shops or not. \n\nThe item ID is thop_backpack\n\nSpecial thanks to [url=https://steamcommunity.com/profiles/76561199093816941/]Wakko[/url] for providing a backpack sprite much better than my own.",
   "Tags": "",
-  "Visibility": "1",
+  "Visibility": "0",
   "ImagePath": "preview.png"
 }

@@ -3,7 +3,7 @@
   <object Name="thop_backpack" Inherits="Armor">
     <part Name="Armor" AV="0" DV="-2" WornOn="Back" />
     <part Name="Backpack" WeightWhenWorn="-150" />
-    <part Name="Render" DisplayName="backpack" Tile="Items/thop_backpack.png" ColorString="&amp;w" DetailColor="&amp;w" RenderString="]" /> <!--need to edit-->
+    <part Name="Render" DisplayName="backpack" Tile="Items/thop_backpack.png" ColorString="&amp;w" DetailColor="&amp;W" RenderString="]" /> <!--need to edit-->
     <part Name="Commerce" Value="20" />
     <part Name="Description" Short="A large backpack. It will lower your ability to dodge attacks!" />
     <part Name="Physics" Weight="25" />
